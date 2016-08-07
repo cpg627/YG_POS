@@ -15,6 +15,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
+
         //버튼에 리스너 달기기
         btn_1_1=(Button)findViewById(R.id.btn_1_1);
         btn_1_2=(Button)findViewById(R.id.btn_1_2);
