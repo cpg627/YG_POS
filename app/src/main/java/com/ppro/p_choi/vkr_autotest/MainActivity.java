@@ -25,6 +25,7 @@ public class MainActivity extends AppCompatActivity {
                 switch (v.getId()){
                     case R.id.btn_1_1:
                         System.out.println("1_1 눌림");
+                        break;
                     case R.id.btn_1_2:
                         System.out.println("1_2 눌림");
                         break;
